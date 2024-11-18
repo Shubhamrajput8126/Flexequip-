@@ -1,8 +1,46 @@
-# React Fitness Application
+Flexequip - Fitness Application
+Flexequip is a fitness tracking web application built using React and styled with CSS. It allows users to log their workouts, track progress, and stay motivated on their fitness journey.
 
-![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
+Features
+User-friendly interface for logging workouts
+Track your fitness progress over time
+Responsive design for mobile and desktop use
+Built using modern web technologies
+Technologies Used
+React
+JavaScript
+CSS
+HTML
+Installation
+To get started with the project, follow these steps:
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+Clone the repository:
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+bash
+Copy code
+git clone https://github.com/Shubhamrajput8126/Flexequip-
+Navigate to the project directory:
+
+bash
+Copy code
+cd Flexequip-
+Install the dependencies:
+
+bash
+Copy code
+npm install
+Run the development server:
+
+bash
+Copy code
+npm start
+Open the app in your browser:
+
+bash
+Copy code
+http://localhost:3000
+Contributing
+Feel free to fork the repository and submit pull requests. If you find bugs or want to add features, please open an issue!
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
